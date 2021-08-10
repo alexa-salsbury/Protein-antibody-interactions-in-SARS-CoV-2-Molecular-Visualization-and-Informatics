@@ -1,6 +1,5 @@
 ## Website COVID-19 Variants:Structure and Effects on Human Health
 
-Brief explanation of project goal/purpose
 Goal- generate an informational website that:
 1. Addresses pressing concerns and misinformation regarding SARS-CoV-2 variants 
 2. Focus on structural visualization help users gain perspective structure function
@@ -15,9 +14,16 @@ Goal- generate an informational website that:
 
 ## References
 
+We will update this section to correspond with methods above and text on website
+
 [1] 	
+
 [2] 	
+
 [3] 	
+
 [4] 	
+
 [5] 	
+
 [6] 	
