@@ -9,7 +9,7 @@ The **Website COVID-19 Variants:Structure and Effects on Human Health** aims to 
 ## Methods
 **Generating Structure Files**
 
-CHARMM-GUI was used to create structure files herein. The starting coordinates were taken from PDB Code 6vxx. PDB Manipulator was used to model missing residues in the system (residues -18-26 and 1148-1262) and to mimic point mutations in our delta (d6vxx.pdb) and gamma (g6vxx.pdb) structures. The mutations made were: 
+CHARMM-GUI was used to create structure files herein. The starting coordinates were taken from PDB Code 6vxx. PDB Manipulator was used to model missing residues in the system (residues -18-26 and 1148-1262) and to mimic point mutations in our delta (d6vxx_full.pdb) and gamma (g6vxx_full.pdb) structures. The mutations made were: 
 
 Delta - T19R, V70F, T95I, G142D, R158G, A222V, W258L, K417N, L452R, T478K, D614G, P681R, D950N
 
